@@ -2,7 +2,6 @@
 # dependencies = ["pypdf"]
 # ///
 import pypdf
-import sys
 
 try:
     reader = pypdf.PdfReader("62451.pdf")
